@@ -16,7 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Test :)
+          Hello World!
+
+          React CD
         </a>
       </header>
     </div>
